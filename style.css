@@ -19,7 +19,7 @@ body, html {
 
 .hero-image {
   height: 30%;
-  margin: 0px;
+  margin-bottom: 150px;
   position: relative;
   display: block;
 }
